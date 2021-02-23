@@ -1,9 +1,30 @@
 ---
+permalink: /publications/
 layout: archive
 title: "Publications"
-permalink: /publications/
 author_profile: true
 ---
+
+
+## Book Chapters
+
+* S Lin, Z. Zhou, Z. Zhang, X. Chen, and J. Zhang, "Edge Intelligence in the Making: Optimization, Deep Learning, and Applications", Morgan & Claypool Publishers, 2021.
+
+
+## Preprints
+
+
+
+
+
+## Conference Papers
+
+
+
+
+## Jounal Papers
+
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
