@@ -21,8 +21,8 @@ author_profile: true
 
 ## Conference Papers
 
-* S. Yue, J. Ren, J. Xin, S. Lin, and J. Zhang, "Inexact-ADMM based Federated Meta-Learning for Fast and Continual Edge Learning", accepted by MobiHoc 2021.
-* S. Lin, M. Dedeoglu, and J. Zhang, "Accelerating Distributed Online Meta-Learning via Multi-Agent Collaboration under Limited Communication", accepted by MobiHoc 2021.
+* S. Yue, J. Ren, J. Xin, S. Lin, and J. Zhang, "Inexact-ADMM based Federated Meta-Learning for Fast and Continual Edge Learning", MobiHoc 2021.
+* S. Lin, M. Dedeoglu, and J. Zhang, "Accelerating Distributed Online Meta-Learning via Multi-Agent Collaboration under Limited Communication", MobiHoc 2021.
 * H. Wang, S. Lin, H. Jafarkhani, and J. Zhang, "Distributed Q-Learning with State Tracking for Multi-agent Networked Control", AAMAS, 2021. (extended abstract)
 * S. Lin, G. Yang, and J. Zhang, "A Collaborative Learning Framework via Federated Meta-Learning", ICDCS, 2020.
 * Z. Zhang, S. Lin, M. Dedeoglu, K. Ding, and J. Zhang, "Data-driven Distributionally Robust Optimization for Edge Intelligence", INFOCOM, 2020.
