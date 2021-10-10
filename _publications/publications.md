@@ -13,14 +13,17 @@ author_profile: true
 
 ## Preprints
 
+* L. Yang, S. Lin, J. Zhang, and D. Fan, "GROWN: GRow Only When Necessary for Continual Learning", arXiv preprint arXiv:2110.00908, 2021.
 * M. Dedeoglu, S. Lin, Z. Zhang, and J. Zhang, "Continual Learning of Generative Models with Limited Data: From Wasserstein-1 Barycenter to Adaptive Coalescence",  arXiv preprint arXiv:2101.09225, 2021.
-* S. Lin, L. Yang, Z. He, D. Fan, and J. Zhang, "MetaGater: Fast Learning of Conditional Channel Gated Networks via Federated Meta-Learning", arXiv preprint arXiv:2011.12511, 2020.
 * S. Lin, H. Wang, and J. Zhang, "System Identification via Meta-Learning in Linear Time-Varying Environments", arXiv preprint arXiv:2010.14664, 2020.
+
 
 
 
 ## Conference Papers
 
+* H. Wang, S. Lin, and J. Zhang, "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback", NeurIPS, 2021.
+* S. Lin, L. Yang, Z. He, D. Fan, and J. Zhang, "MetaGater: Fast Learning of Conditional Channel Gated Networks via Federated Meta-Learning", MASS, 2021.
 * S. Yue, J. Ren, J. Xin, S. Lin, and J. Zhang, "Inexact-ADMM based Federated Meta-Learning for Fast and Continual Edge Learning", MobiHoc 2021.
 * S. Lin, M. Dedeoglu, and J. Zhang, "Accelerating Distributed Online Meta-Learning via Multi-Agent Collaboration under Limited Communication", MobiHoc 2021.
 * H. Wang, S. Lin, H. Jafarkhani, and J. Zhang, "Distributed Q-Learning with State Tracking for Multi-agent Networked Control", AAMAS, 2021. (extended abstract)
