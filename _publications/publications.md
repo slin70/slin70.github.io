@@ -13,6 +13,7 @@ author_profile: true
 
 ## Continual Learning
 
+* S. Lin, L. Yang, D. Fan, and J. Zhang, "TRGP: Trust Region Gradient Projection for Continual Learning", ICLR, 2022.
 * L. Yang, S. Lin, J. Zhang, and D. Fan, "GROWN: GRow Only When Necessary for Continual Learning", arXiv preprint arXiv:2110.00908, 2021.
 
 
@@ -20,6 +21,7 @@ author_profile: true
 
 ## Reinforcement Learning
 
+* S. Lin, J. Wan, T. Xu, Y. Liang, and J. Zhang, "Model-Based Offline Meta-Reinforcement Learning with Regularization", ICLR, 2022.
 * H. Wang, S. Lin, and J. Zhang, "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback", NeurIPS, 2021.
 * H. Wang, S. Lin, H. Jafarkhani, and J. Zhang, "Distributed Q-Learning with State Tracking for Multi-agent Networked Control", AAMAS, 2021. (extended abstract)
 * S. Lin, H. Wang, and J. Zhang, "System Identification via Meta-Learning in Linear Time-Varying Environments", arXiv preprint arXiv:2010.14664, 2020.
