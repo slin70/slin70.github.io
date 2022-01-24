@@ -35,7 +35,7 @@ author_profile: true
 * S. Lin, G. Yang, and J. Zhang, "A Collaborative Learning Framework via Federated Meta-Learning", ICDCS, 2020.
 * Z. Zhang, S. Lin, M. Dedeoglu, K. Ding, and J. Zhang, "Data-driven Distributionally Robust Optimization for Edge Intelligence", INFOCOM, 2020.
 * S. Lin, J. Zhang, and L. Ying, "Crowdsensing for Spectrum Discovery: A Waze-Inspired Design via Smartphone Sensing", IEEE/ACM Transactions on Networking, 2020.
-* S. Lin, J. Zhang, and L. Ying, "Waze-Inspired Spectrum Discovery via Smartphone Sensing Data Fusion", WiOPT, 2018.
+* S. Lin, J. Zhang, and L. Ying, "Waze-Inspired Spectrum Discovery via Smartphone Sensing Data Fusion", WiOPT, 2018. (Best Student Paper Award)
 
 
 
