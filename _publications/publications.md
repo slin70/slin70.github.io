@@ -13,7 +13,7 @@ author_profile: true
 
 ## Continual Learning
 
-* S. Lin, L. Yang, D. Fan, and J. Zhang, "TRGP: Trust Region Gradient Projection for Continual Learning", ICLR, 2022.
+* S. Lin, L. Yang, D. Fan, and J. Zhang, "TRGP: Trust Region Gradient Projection for Continual Learning", ICLR, 2022. (Spotlight)
 * L. Yang, S. Lin, J. Zhang, and D. Fan, "GROWN: GRow Only When Necessary for Continual Learning", arXiv preprint arXiv:2110.00908, 2021.
 
 
