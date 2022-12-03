@@ -15,7 +15,8 @@ author_profile: true
 
 * S. Lin, L. Yang, D. Fan, and J. Zhang, "Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer", NeurIPS, 2022.
 * S. Lin, L. Yang, D. Fan, and J. Zhang, "TRGP: Trust Region Gradient Projection for Continual Learning", ICLR, 2022. (Spotlight)
-* L. Yang, S. Lin, J. Zhang, and D. Fan, "GROWN: GRow Only When Necessary for Continual Learning", arXiv preprint arXiv:2110.00908, 2021.
+* L. Yang, S. Lin, J. Zhang, and D. Fan, "CL-LSG: Continual Learning via Learnable Sparse
+Growth", NeurIPS Memory in Artificial and Real Intelligence workshop, 2022.
 
 
 
@@ -42,7 +43,3 @@ author_profile: true
 * M. Dedeoglu, S. Lin, Z. Zhang, and J. Zhang, "Federated Learning Based Demand Reshaping for Electric Vehicle Charging", Globecom, 2022.
 * S. Lin, J. Zhang, and L. Ying, "Crowdsensing for Spectrum Discovery: A Waze-Inspired Design via Smartphone Sensing", IEEE/ACM Transactions on Networking, 2020.
 * S. Lin, J. Zhang, and L. Ying, "Waze-Inspired Spectrum Discovery via Smartphone Sensing Data Fusion", WiOPT, 2018. (Best Student Paper Award)
-
-
-
-

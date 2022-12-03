@@ -86,7 +86,7 @@ author:
   location         : "Columbus, OH"
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=94-TbUsAAAAJ&hl=en"
-  email            :
+  cv               : http://slin70.github.io/files/cv.pdf
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,13 +102,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
