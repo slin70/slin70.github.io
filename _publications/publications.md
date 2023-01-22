@@ -23,6 +23,7 @@ Growth", NeurIPS Memory in Artificial and Real Intelligence workshop, 2022.
 
 ## Reinforcement Learning
 
+* S. Yue, G. Wang, W. Shao, Z. Zhang, S. Lin, J. Ren, and J. Zhang, "CLARE: Conservative Model-Based Reward Learning for Offline Inverse Reinforcement Learning", ICLR 2023.
 * S. Lin, J. Wan, T. Xu, Y. Liang, and J. Zhang, "Model-Based Offline Meta-Reinforcement Learning with Regularization", ICLR, 2022.
 * H. Wang, S. Lin, and J. Zhang, "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback", NeurIPS, 2021.
 * H. Wang, S. Lin, H. Jafarkhani, and J. Zhang, "Distributed Q-Learning with State Tracking for Multi-agent Networked Control", AAMAS, 2021. (extended abstract)
