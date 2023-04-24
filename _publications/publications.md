@@ -13,7 +13,7 @@ author_profile: true
 
 ## Continual Learning
 
-* S. Lin*, $P. Ju$*, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", ICML, 2023.
+* S. Lin*, P. Ju*, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", ICML, 2023.
 * S. Lin, L. Yang, D. Fan, and J. Zhang, "Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer", NeurIPS, 2022.
 * S. Lin, L. Yang, D. Fan, and J. Zhang, "TRGP: Trust Region Gradient Projection for Continual Learning", ICLR, 2022. (Spotlight)
 * L. Yang, S. Lin, J. Zhang, and D. Fan, "CL-LSG: Continual Learning via Learnable Sparse
@@ -24,7 +24,7 @@ Growth", NeurIPS Memory in Artificial and Real Intelligence workshop, 2022.
 
 ## Reinforcement Learning
 
-* H. Wang, S. Lin, and J. Zhang, "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap", ICML, 2023. (oral)
+* H. Wang, S. Lin, and J. Zhang, "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap", ICML, 2023. (Oral)
 * S. Yue, G. Wang, W. Shao, Z. Zhang, S. Lin, J. Ren, and J. Zhang, "CLARE: Conservative Model-Based Reward Learning for Offline Inverse Reinforcement Learning", ICLR, 2023.
 * S. Lin, J. Wan, T. Xu, Y. Liang, and J. Zhang, "Model-Based Offline Meta-Reinforcement Learning with Regularization", ICLR, 2022.
 * H. Wang, S. Lin, and J. Zhang, "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback", NeurIPS, 2021.
