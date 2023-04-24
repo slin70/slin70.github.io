@@ -13,7 +13,7 @@ author_profile: true
 
 ## Continual Learning
 
-* **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023. (**<sup>*</sup> co-primary authors)
+* **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023. (<sup>*</sup> co-primary authors)
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer", **NeurIPS**, 2022.
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "TRGP: Trust Region Gradient Projection for Continual Learning", **ICLR**, 2022. (Spotlight)
 * L. Yang, **S. Lin**, J. Zhang, and D. Fan, "CL-LSG: Continual Learning via Learnable Sparse
