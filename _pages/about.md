@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[(CV)](https://github.com/slin70/slin70.github.io/blob/master/files/cv.pdf) I'm currently a Postdoctoral Scholar in AI-EDGE Institute at The Ohio State University. I received my B.Eng. degree in Electrical Engineering from Zhejiang University, Hangzhou, China, in 2013, my M.S. degree in Telecommunications from The Hong Kong University of Science and Technology, Hong Kong, in 2014, and my Ph.D. degree in Electrical Engineering from Arizona State University, in 2021, under the co-supervision of [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/) and [Prof. Lei Ying](https://leiying.engin.umich.edu/).
+[(CV)](https://www.dropbox.com/s/3u9n4shksqn3qfd/cv.pdf?dl=0) I'm currently a Postdoctoral Scholar in AI-EDGE Institute at The Ohio State University. I received my B.Eng. degree in Electrical Engineering from Zhejiang University, Hangzhou, China, in 2013, my M.S. degree in Telecommunications from The Hong Kong University of Science and Technology, Hong Kong, in 2014, and my Ph.D. degree in Electrical Engineering from Arizona State University, in 2021, under the co-supervision of [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/) and [Prof. Lei Ying](https://leiying.engin.umich.edu/).
 
 
 News
