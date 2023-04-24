@@ -13,7 +13,7 @@ author_profile: true
 
 ## Continual Learning
 
-* **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023.
+* **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023. (**<sup>*</sup> co-primary authors)
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer", **NeurIPS**, 2022.
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "TRGP: Trust Region Gradient Projection for Continual Learning", **ICLR**, 2022. (Spotlight)
 * L. Yang, **S. Lin**, J. Zhang, and D. Fan, "CL-LSG: Continual Learning via Learnable Sparse
@@ -34,6 +34,7 @@ Growth", **NeurIPS Memory in Artificial and Real Intelligence workshop**, 2022.
 ## Distributed Edge Learning
 
 * M. Dedeoglu, **S. Lin**, Z. Zhang, and J. Zhang, "Continual Learning of Generative Models with Limited Data: From Wasserstein-1 Barycenter to Adaptive Coalescence",   **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, 2023.
+* **S. Lin**<sup>*</sup>, Ming Shi<sup>*</sup>, and All NSF AI-EDGE Faculty Member, "Leveraging Synergies between AI and Networking to Build Next Generation Edge Networks", **CIC**, 2022. (invited paper, <sup>*</sup>co-primary authors)
 * **S. Lin**, L. Yang, Z. He, D. Fan, and J. Zhang, "MetaGater: Fast Learning of Conditional Channel Gated Networks via Federated Meta-Learning", **MASS**, 2021. (invited paper)
 * S. Yue, J. Ren, J. Xin, **S. Lin**, and J. Zhang, "Inexact-ADMM based Federated Meta-Learning for Fast and Continual Edge Learning", **MobiHoc**, 2021.
 * **S. Lin**, M. Dedeoglu, and J. Zhang, "Accelerating Distributed Online Meta-Learning via Multi-Agent Collaboration under Limited Communication", **MobiHoc**, 2021.
