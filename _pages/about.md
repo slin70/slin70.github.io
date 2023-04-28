@@ -14,9 +14,9 @@ redirect_from:
 News
 ======
 
-* Our paper "Theory on Forgetting and Generalization of Continual Learning" is accepted by **ICML 2023**. Congratulations to Peizhong and other authors. (April 2023) 
+* *[2023.04]* Our paper "Theory on Forgetting and Generalization of Continual Learning" is accepted by **ICML 2023**. Congratulations to Peizhong and other authors. 
 
-* Our paper "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by **ICML 2023** as a short oral presentation. Congratulations to Hang and other authors. (April 2023)
+* *[2023.04]* Our paper "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by **ICML 2023** as an oral presentation. Congratulations to Hang and other authors. 
 
 
 
