@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-[(CV)](https://www.dropbox.com/s/3u9n4shksqn3qfd/cv.pdf?dl=0) I'm currently a Postdoctoral Scholar in AI-EDGE Institute at The Ohio State University. I received my B.Eng. degree in Electrical Engineering from Zhejiang University, Hangzhou, China, in 2013, my M.S. degree in Telecommunications from The Hong Kong University of Science and Technology, Hong Kong, in 2014, and my Ph.D. degree in Electrical Engineering from Arizona State University, in 2021, under the co-supervision of [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/) and [Prof. Lei Ying](https://leiying.engin.umich.edu/).
+I will join the Computer Science Department at University of Houston as an assistant professor in 2023 Fall.
+I'm currently a Postdoctoral Scholar in AI-EDGE Institute at The Ohio State University. I received my B.Eng. degree in Electrical Engineering from Zhejiang University, Hangzhou, China, in 2013, my M.S. degree in Telecommunications from The Hong Kong University of Science and Technology, Hong Kong, in 2014, and my Ph.D. degree in Electrical Engineering from Arizona State University, in 2021, under the co-supervision of [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/) and [Prof. Lei Ying](https://leiying.engin.umich.edu/).
 
+[(CV)](https://www.dropbox.com/s/3u9n4shksqn3qfd/cv.pdf?dl=0) 
 
-I will join the Computer Science Department at University of Houston as an assistant professor in 2023 Fall. Multiple openings for fully funded Ph.D. students are available in my group. Students who are self-motivated, hard-working, and have research interests in Machine Learning, Optimization and Wireless Communications are very welcomed to apply. Please send me an email with your CV and transcripts if you are interested.   
+**Multiple openings for fully funded Ph.D. students are available:**
+Students who are self-motivated, hard-working, and have research interests in Machine Learning, Optimization and Wireless Communications are very welcomed to apply. Please send me an email with your CV and transcripts if you are interested.   
 
 
 News
