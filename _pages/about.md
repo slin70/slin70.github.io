@@ -14,7 +14,7 @@ I'm currently a Postdoctoral Scholar in AI-EDGE Institute at The Ohio State Univ
 [(CV)](https://www.dropbox.com/s/3u9n4shksqn3qfd/cv.pdf?dl=0) 
 
 **Multiple openings for fully funded Ph.D. students are available:**
-Students who are self-motivated, hard-working, and have research interests in Machine Learning, Optimization and Wireless Communications are very welcomed to apply. Please send me an email with your CV and transcripts if you are interested.   
+Students who are self-motivated, hard-working, and have research interests in Machine Learning, Optimization and Wireless Communication are very welcomed to apply. Please send me an email with your CV and transcripts if you are interested.   
 
 
 News
