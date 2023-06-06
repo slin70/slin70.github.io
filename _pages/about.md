@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join the Computer Science Department at University of Houston as an assistant professor in 2023 Fall.
-I'm currently a Postdoctoral Scholar in AI-EDGE Institute at The Ohio State University. I received my B.Eng. degree in Electrical Engineering from Zhejiang University, Hangzhou, China, in 2013, my M.S. degree in Telecommunications from The Hong Kong University of Science and Technology, Hong Kong, in 2014, and my Ph.D. degree in Electrical Engineering from Arizona State University, in 2021, under the co-supervision of [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/) and [Prof. Lei Ying](https://leiying.engin.umich.edu/).
+I will join the Computer Science Department at University of Houston as an assistant professor in 2023 Fall. I'm currently a Postdoctoral Scholar in AI-EDGE Institute at The Ohio State University, advised by [Prof. Ness Shroff](http://newslab.ece.ohio-state.edu/home/index.html), [Prof. Yingbin Liang](https://sites.google.com/view/yingbinliang/home), and [Prof. Anish Arora](https://cse.osu.edu/people/arora.9). I received my B.Eng. degree in Electrical Engineering from Zhejiang University, Hangzhou, China, in 2013, my M.S. degree in Telecommunications from The Hong Kong University of Science and Technology, Hong Kong, in 2014, and my Ph.D. degree in Electrical Engineering from Arizona State University, in 2021, under the co-supervision of [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/) and [Prof. Lei Ying](https://leiying.engin.umich.edu/).
 
 [(CV)](https://www.dropbox.com/s/3u9n4shksqn3qfd/cv.pdf?dl=0) 
 
