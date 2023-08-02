@@ -19,6 +19,8 @@ Students who are self-motivated, hard-working, and have research interests in Ma
 News
 ======
 
+* *[2023.08]* Our paper "Scheduling Real-time Wireless Traffic: A Network-aided Offline Reinforcement Learning Approach" has been accepted by **IEEE Internet of Things Journal**.
+
 * *[2023.04]* Our paper "Theory on Forgetting and Generalization of Continual Learning" is accepted by **ICML 2023**. Congratulations to Peizhong and other authors. 
 
 * *[2023.04]* Our paper "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by **ICML 2023** as an oral presentation. Congratulations to Hang and other authors. 

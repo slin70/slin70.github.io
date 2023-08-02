@@ -13,6 +13,7 @@ author_profile: true
 
 ## Continual Learning
 
+* L. Yang, **S. Lin**, J. Zhang, and D. Fan, "Efficient Self-supervised Continual Learning with Progressive Task-Correlated Layer Freezing", arxiv, 2023.
 * **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023. (<sup>*</sup> co-primary authors)
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer", **NeurIPS**, 2022.
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "TRGP: Trust Region Gradient Projection for Continual Learning", **ICLR**, 2022. **(Spotlight)**
@@ -44,6 +45,7 @@ Growth", **NeurIPS Memory in Artificial and Real Intelligence workshop**, 2022.
 
 ## Applications in Wireless Networks
 
+* J. Wan, **S. Lin**, Z. Zhang, J. Zhang, and T. Zhang, "Scheduling Real-time Wireless Traffic: A Network-aided Offline Reinforcement Learning Approach", **IEEE Internet of Things Journal**, 2023.
 * M. Dedeoglu, **S. Lin**, Z. Zhang, and J. Zhang, "Federated Learning Based Demand Reshaping for Electric Vehicle Charging", **Globecom**, 2022.
 * **S. Lin**, J. Zhang, and L. Ying, "Crowdsensing for Spectrum Discovery: A Waze-Inspired Design via Smartphone Sensing", **IEEE/ACM Transactions on Networking**, 2020.
 * **S. Lin**, J. Zhang, and L. Ying, "Waze-Inspired Spectrum Discovery via Smartphone Sensing Data Fusion", **WiOPT**, 2018. **(Best Student Paper Award)**
