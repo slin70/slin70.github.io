@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2023 Fall
 
-* COSC4368: Fundamental of Artificial Intelligence
+* COSC4368: Fundamentals of Artificial Intelligence
 
 ## Before 2023
 

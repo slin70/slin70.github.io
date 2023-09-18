@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Conference Services:
 
+* PC member of SDM 2024
 * PC member of PhD Student Symposium for ICDCS 2023
 
 ## Journal Reviewer:
@@ -22,6 +23,7 @@ author_profile: true
 
 ## Conference Reviewer:
 
+* ICLR: 2024
 * NeurIPS: 2022, 2023
 * ICML: 2023
 * CVPR: 2023
