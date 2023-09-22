@@ -12,6 +12,7 @@ author_profile: true
 ## Journal Reviewer:
 
 * IEEE Wireless Communications Magazine
+* IEEE Transactions on Signal Processing
 * IEEE/ACM Transactions on Networking
 * IEEE Transactions on Wireless Communications
 * IEEE Internet of Things Journal

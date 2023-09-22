@@ -19,6 +19,8 @@ Students who are self-motivated, hard-working, and have research interests in Ma
 News
 ======
 
+* *[2023.09]* Our paper on online bilevel optimization has been accepted by **NeurIPS 2023**.
+
 * *[2023.09]* I have accepted the invitation to serve as a Program Committee member of SDM 2024.
 
 * *[2023.08]* Our paper "Scheduling Real-time Wireless Traffic: A Network-aided Offline Reinforcement Learning Approach" has been accepted by **IEEE Internet of Things Journal**.

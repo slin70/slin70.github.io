@@ -10,6 +10,11 @@ author_profile: true
 
 * **S. Lin**, Z. Zhou, Z. Zhang, X. Chen, and J. Zhang, "Edge Intelligence in the Making: Optimization, Deep Learning, and Applications", **Morgan & Claypool Publishers**, 2020.
 
+## Bilevel Optimization
+
+* D. Sow, **S. Lin**, Z. Wang, and Y. Liang, "Doubly Robust Instance-Reweighted Adversarial Training", axriv, 2023.
+* **S. Lin**, D. Sow, K. Ji, Y. Liang, and N. Shroff, "Non-Convex Bilevel Optimization with Time-Varying Objective Functions", **NeurIPS**, 2023.
+
 
 ## Continual Learning
 
