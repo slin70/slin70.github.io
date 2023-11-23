@@ -14,6 +14,7 @@ I am an assistant professor in the Computer Science Department at University of 
 
 **Multiple openings for fully funded Ph.D. students are available:**
 Students who are self-motivated, hard-working, and have research interests in Machine Learning, Optimization and Wireless Communication are very welcomed to apply. Please send me an email with your CV and transcripts if you are interested.   
+(Due to the large volume of inquiry emails, unfortunately I am not able to respond to every email. If you have sent me an email and not received a response, I hope you will understand.)
 
 
 News
