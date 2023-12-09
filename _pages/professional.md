@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Conference Services:
 
+* PC member of ICDCS 2024
 * PC member of SDM 2024
 * PC member of PhD Student Symposium for ICDCS 2023
 
