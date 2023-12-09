@@ -20,6 +20,10 @@ Students who are self-motivated, hard-working, and have research interests in Ma
 News
 ======
 
+* *[2023.12]* I have accepted the invitation to serve as a Program Committee member of ICDCS 2024.
+
+* *[2023.11]* One paper on online meta-learning has been accepted by **CPAL 2024**.
+
 * *[2023.09]* Our paper on online bilevel optimization has been accepted by **NeurIPS 2023**.
 
 * *[2023.09]* I have accepted the invitation to serve as a Program Committee member of SDM 2024.
