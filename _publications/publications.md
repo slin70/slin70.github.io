@@ -12,7 +12,7 @@ author_profile: true
 
 ## Bilevel Optimization
 
-* D. Sow, **S. Lin**, Z. Wang, and Y. Liang, "Doubly Robust Instance-Reweighted Adversarial Training", axriv, 2023.
+* D. Sow, **S. Lin**, Z. Wang, and Y. Liang, "Doubly Robust Instance-Reweighted Adversarial Training", **ICLR**, 2024.
 * **S. Lin**, D. Sow, K. Ji, Y. Liang, and N. Shroff, "Non-Convex Bilevel Optimization with Time-Varying Objective Functions", **NeurIPS**, 2023.
 
 

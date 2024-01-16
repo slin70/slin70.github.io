@@ -5,6 +5,10 @@ title: "Teaching"
 author_profile: true
 ---
 
+## 2024 Spring
+
+* COSC6397: Deep Learning
+
 ## 2023 Fall
 
 * COSC4368: Fundamentals of Artificial Intelligence

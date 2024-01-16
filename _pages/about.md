@@ -20,6 +20,8 @@ Students who are self-motivated, hard-working, and have research interests in Ma
 News
 ======
 
+* *[2024.01]* Our paper on adversarial training has been accepted by **ICLR 2024**. We propose a novel doubly-robust instance-reweighed adversarial training method based on bilevel optimization and distributionally robust optimization, which significantly boosts the robustness on the most vulnerable examples.
+
 * *[2023.12]* I have accepted the invitation to serve as a Program Committee member of ICDCS 2024.
 
 * *[2023.11]* One paper on online meta-learning has been accepted by **CPAL 2024**.
