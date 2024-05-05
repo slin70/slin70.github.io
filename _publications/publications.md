@@ -30,6 +30,8 @@ Growth", **NeurIPS Memory in Artificial and Real Intelligence workshop**, 2022.
 
 ## Reinforcement Learning
 
+* S. Yue, X. Hua, J. Ren, **S. Lin**, J. Zhang, and Y. Zhang, "OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning", **ICML**, 2024.
+* S. Yue, J. Liu, X. Hua, J. Ren, **S. Lin**, J. Zhang, and Y. Zhang, "How to Leverage Diverse Demonstrations in Offline Imitation Learning", **ICML**, 2024.
 * H. Wang, **S. Lin**, and J. Zhang, "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap", **ICML**, 2023. **(Oral)**
 * S. Yue, G. Wang, W. Shao, Z. Zhang, **S. Lin**, J. Ren, and J. Zhang, "CLARE: Conservative Model-Based Reward Learning for Offline Inverse Reinforcement Learning", **ICLR**, 2023.
 * **S. Lin**, J. Wan, T. Xu, Y. Liang, and J. Zhang, "Model-Based Offline Meta-Reinforcement Learning with Regularization", **ICLR**, 2022.
