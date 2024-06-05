@@ -20,6 +20,8 @@ Students who are self-motivated, hard-working, and have research interests in Ma
 News
 ======
 
+* *[2024.05]* I will serve as a TPC member of INFOCOM 2025.
+
 * *[2024.05]* Two papers on offline and offline-to-online imitation learning have been accepted by **ICML 2024**. Congratulations to Sheng.
 
 * *[2024.01]* Our paper on adversarial training has been accepted by **ICLR 2024**. We propose a novel doubly-robust instance-reweighed adversarial training method based on bilevel optimization and distributionally robust optimization, which significantly boosts the robustness on the most vulnerable examples.
