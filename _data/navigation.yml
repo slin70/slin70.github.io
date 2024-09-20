@@ -14,6 +14,9 @@ main:
     
   - title: "Services"
     url: /professional/
+
+  - title: "Group"
+    url: /terms/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
