@@ -3,7 +3,7 @@ permalink: /terms/
 title: "Research Group"
 modified: 2016-06-06
 ---
-## PhD Student
+## PhD Students
 
 * Oyekunle Oshidele
 * Kishan Rajput
