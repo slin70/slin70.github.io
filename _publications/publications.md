@@ -16,8 +16,10 @@ author_profile: true
 * **S. Lin**, D. Sow, K. Ji, Y. Liang, and N. Shroff, "Non-Convex Bilevel Optimization with Time-Varying Objective Functions", **NeurIPS**, 2023.
 
 
+
 ## Continual Learning
 
+* H. Li, **S. Lin**, L. Duan, Y. Liang, and N. Shroff, "Theory on Mixture-of-Experts in Continual Learning", arxiv, 2024.
 * L. Yang, **S. Lin**, J. Zhang, and D. Fan, "Efficient Self-supervised Continual Learning with Progressive Task-Correlated Layer Freezing", arxiv, 2023.
 * **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023. (<sup>*</sup> co-primary authors)
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer", **NeurIPS**, 2022.
@@ -26,12 +28,18 @@ author_profile: true
 Growth", **NeurIPS Memory in Artificial and Real Intelligence workshop**, 2022.
 
 
+## Machine Unlearning
+
+* M. Kazemi, A. Hussain, MRI. Rabin, MA. Alipour, **S. Lin**, "Unlearning Trojans in Large Language Models: A comparison Between Natural Language and Source Code", arxiv, 2024.
+
+
 
 
 ## Reinforcement Learning
 
 * S. Yue, X. Hua, J. Ren, **S. Lin**, J. Zhang, and Y. Zhang, "OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning", **ICML**, 2024.
 * S. Yue, J. Liu, X. Hua, J. Ren, **S. Lin**, J. Zhang, and Y. Zhang, "How to Leverage Diverse Demonstrations in Offline Imitation Learning", **ICML**, 2024.
+* I. Adham, H. Wang, **S. Lin**, and J. Zhang, "L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration", **MOST**, 2024.
 * H. Wang, **S. Lin**, and J. Zhang, "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap", **ICML**, 2023. **(Oral)**
 * S. Yue, G. Wang, W. Shao, Z. Zhang, **S. Lin**, J. Ren, and J. Zhang, "CLARE: Conservative Model-Based Reward Learning for Offline Inverse Reinforcement Learning", **ICLR**, 2023.
 * **S. Lin**, J. Wan, T. Xu, Y. Liang, and J. Zhang, "Model-Based Offline Meta-Reinforcement Learning with Regularization", **ICLR**, 2022.
