@@ -1,10 +1,11 @@
 ---
 permalink: /terms/
-title: "Research Group"
+title: "Continual Edge AI Lab: CEAL @ UH"
 ---
 ## PhD Students
 
-* Oyekunle Oshidele (part-time), 08/2024 -
+* Pei-Chi Pan, 01/2025 - 
+* Oyekunle Oshidele, 08/2024 -
 * Kishan Rajput, 08/2024 - 
 * Chad Weatherly, 08/2024 -
 * Junchao Zhou, 08/2024 -
