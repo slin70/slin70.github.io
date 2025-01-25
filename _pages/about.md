@@ -19,7 +19,7 @@ I am an assistant professor in the Computer Science Department at University of 
 News
 ======
 
-* *[2025.01]* Our paper on the theory of MoE in CL has been accepted by **ICLR 2025**, which provides the first comprehensive theoretical understanding of how MoE works in CL. 
+* *[2025.01]* Our paper on the theory of MoE in continual learning has been accepted by **ICLR 2025**, which provides the first comprehensive theoretical understanding of how MoE works in continual learning. 
 
 * *[2024.12]* I will serve as a TPC member of MobiHoc 2025 and ITW 2025.
 
