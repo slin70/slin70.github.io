@@ -19,6 +19,10 @@ I am an assistant professor in the Computer Science Department at University of 
 News
 ======
 
+* *[2025.01]* Our paper on the theory of MoE in CL has been accepted by **ICLR 2025**, which provides the first comprehensive theoretical understanding of how MoE works in CL. 
+
+* *[2024.12]* I will serve as a TPC member of MobiHoc 2025 and ITW 2025.
+
 * *[2024.10]* I will serve as a guest editor for IEEE/ACM Transactions on Networking Special Issue on AI and Networking, which welcomes cutting-edge research findings in the areas of "AI for networks" and "AI on networks". Check the link [here](https://www.comsoc.org/publications/journals/ieeeacm-tnet/ieeeacm-transactions-networking-call-papers) if you are interested.  
 
 * *[2024.05]* I will serve as a TPC member of INFOCOM 2025.

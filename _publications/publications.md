@@ -19,7 +19,7 @@ author_profile: true
 
 ## Continual Learning
 
-* H. Li, **S. Lin**, L. Duan, Y. Liang, and N. Shroff, "Theory on Mixture-of-Experts in Continual Learning", arxiv, 2024.
+* H. Li, **S. Lin**, L. Duan, Y. Liang, and N. Shroff, "Theory on Mixture-of-Experts in Continual Learning", ICLR, 2025.
 * L. Yang, **S. Lin**, J. Zhang, and D. Fan, "Efficient Self-supervised Continual Learning with Progressive Task-Correlated Layer Freezing", arxiv, 2023.
 * **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023. (<sup>*</sup> co-primary authors)
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer", **NeurIPS**, 2022.
