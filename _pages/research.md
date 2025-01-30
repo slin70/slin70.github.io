@@ -9,19 +9,16 @@ redirect_from:
 
 ## Research interests
 
-My research interests fall in the intersection of wireless networking and machine learning. My current research focuses on 
+My research interests fall in general machine learning and optimization, in terms of algorithm design, theory, and the applications in various domains, under the central objective of making AI more practical, accessible, adaptive, and explainable. The current research topics in my group include 
 
-* Reinforcement learning
-* Meta-learning
-* Efficient continual learning
+* Warm-start and continual RL
+* RL for foundation models and foundation models for RL
+* Theory and principled algorithm design for continual learning
+* Mixture-of-experts
+* Bilevel optimization.
 
-with applications in edge computing.
+The application domains include wireless edge networks, computer graphics, physics, etc.
 
-
-## Awards
-
-* University Graduate Fellowship, ASU, 2021 
-* Best Student Paper Award at WiOPT 2018
-* University Graduate Fellowship, ASU, 2015-2016 
+ 
 
 
