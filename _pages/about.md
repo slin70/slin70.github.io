@@ -12,7 +12,7 @@ I am an assistant professor in the Computer Science Department at University of 
 
 [(CV)](https://www.dropbox.com/scl/fi/b8yzmyzb42fcoec6d5jcx/cv.pdf?rlkey=wr4bqp6k3r39f2b14ody5hj6t&dl=0) 
 
-**Currently I don't have openings for fully funded Ph.D. students in my group. But research interns and visiting scholars are very welcome!**
+
 
 
 
