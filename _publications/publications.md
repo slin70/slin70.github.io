@@ -12,6 +12,7 @@ author_profile: true
 
 ## Bilevel Optimization
 
+* Z. Guan, D. Sow, **S. Lin**, and Y. Liang, "AdaProx: A Novel Method for Bilevel Optimization under Pessimistic Framework", **CPAL**, 2025.
 * D. Sow, **S. Lin**, Z. Wang, and Y. Liang, "Doubly Robust Instance-Reweighted Adversarial Training", **ICLR**, 2024.
 * **S. Lin**, D. Sow, K. Ji, Y. Liang, and N. Shroff, "Non-Convex Bilevel Optimization with Time-Varying Objective Functions", **NeurIPS**, 2023.
 
@@ -19,8 +20,8 @@ author_profile: true
 
 ## Continual Learning
 
-* H. Li, **S. Lin**, L. Duan, Y. Liang, and N. Shroff, "Theory on Mixture-of-Experts in Continual Learning", **ICLR**, 2025.
-* L. Yang, **S. Lin**, J. Zhang, and D. Fan, "Efficient Self-supervised Continual Learning with Progressive Task-Correlated Layer Freezing", arxiv, 2023.
+* H. Li, **S. Lin**, L. Duan, Y. Liang, and N. Shroff, "Theory on Mixture-of-Experts in Continual Learning", **ICLR**, 2025. **(Spotlight)**
+* L. Yang, **S. Lin**, J. Zhang, and D. Fan, "Efficient Self-supervised Continual Learning with Progressive Task-Correlated Layer Freezing", **ISQED**, 2025.
 * **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023. (<sup>*</sup> co-primary authors)
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer", **NeurIPS**, 2022.
 * **S. Lin**, L. Yang, D. Fan, and J. Zhang, "TRGP: Trust Region Gradient Projection for Continual Learning", **ICLR**, 2022. **(Spotlight)**

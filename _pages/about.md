@@ -19,6 +19,8 @@ I am an assistant professor in the Computer Science Department at University of 
 News
 ======
 
+* *[2025.02]* One paper on continual learning has been accepted by **ISQED 2025** and one paper on bilevel optimization has been accepted by **CPAL 2025**. Our paper on the theory of MoE in continual learning has also been selected as a **Spotlight** (5.1%) in **ICLR 2025**.
+
 * *[2025.01]* Our paper on the theory of MoE in continual learning has been accepted by **ICLR 2025**, which provides the first comprehensive theoretical understanding of how MoE works in continual learning. 
 
 * *[2024.12]* I will serve as a TPC member of MobiHoc 2025 and ITW 2025.
