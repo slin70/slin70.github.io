@@ -11,6 +11,12 @@ author_profile: true
 * H. Wang, **S. Lin**, and J. Zhang, "Continual and Reinforcement Learning for Edge AI: Framework, Foundation, and Algorithm Design", **Springer**, 2025.
 * **S. Lin**, Z. Zhou, Z. Zhang, X. Chen, and J. Zhang, "Edge Intelligence in the Making: Optimization, Deep Learning, and Applications", **Morgan & Claypool Publishers**, 2020.
 
+
+## Surveys
+
+* S. Mu, and **S. Lin**, "A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications", arrive, 2025.
+
+
 ## Bilevel Optimization
 
 * Z. Guan, D. Sow, **S. Lin**, and Y. Liang, "AdaProx: A Novel Method for Bilevel Optimization under Pessimistic Framework", **CPAL**, 2025.
