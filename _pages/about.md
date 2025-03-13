@@ -19,7 +19,7 @@ I am an assistant professor in the Computer Science Department at University of 
 News
 ======
 
-* *[2025.03]* Check out our recent survey paper on Mixture-of-Experts [here](https://arxiv.org/abs/2503.07137), which provides a comprehensive review of its basics, algorithm design in multiple learning paradigms, theory and applications in CV/NLP.
+* *[2025.03]* Check our recent survey paper on Mixture-of-Experts [here](https://arxiv.org/abs/2503.07137), which provides a comprehensive review of its basics, algorithm design in multiple learning paradigms, theory and applications in CV/NLP.
 
 * *[2025.02]* Our book "Continual and Reinforcement Learning for Edge AI" has been published by [Springer](https://link.springer.com/book/9783031843624) and will be available soon.
 
