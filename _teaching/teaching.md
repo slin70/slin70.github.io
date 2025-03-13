@@ -5,6 +5,10 @@ title: "Teaching"
 author_profile: true
 ---
 
+## 2025 Spring
+
+* COSC7342: Advanced Machine Learning
+
 ## 2024 Spring
 
 * COSC6397: Deep Learning
