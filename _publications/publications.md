@@ -14,7 +14,7 @@ author_profile: true
 
 ## Surveys
 
-* S. Mu, and **S. Lin**, "A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications", arrive, 2025.
+* S. Mu, and **S. Lin**, "A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications", arxiv, 2025.
 
 
 ## Bilevel Optimization
