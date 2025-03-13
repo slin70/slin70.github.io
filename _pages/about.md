@@ -19,6 +19,8 @@ I am an assistant professor in the Computer Science Department at University of 
 News
 ======
 
+* *[2025.03]* Check out our recent survey paper on Mixture-of-Experts [here](https://arxiv.org/abs/2503.07137), which provides a comprehensive review of its basics, algorithm design in multiple learning paradigms, theory and applications in CV/NLP.
+
 * *[2025.02]* Our book "Continual and Reinforcement Learning for Edge AI" has been published by [Springer](https://link.springer.com/book/9783031843624) and will be available soon.
 
 * *[2025.02]* One paper on continual learning has been accepted by **ISQED 2025** and one paper on bilevel optimization has been accepted by **CPAL 2025**. Our paper on the theory of MoE in continual learning has also been selected as a **Spotlight** (5.1%) in **ICLR 2025**.
