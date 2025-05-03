@@ -18,6 +18,9 @@ I am an assistant professor in the Computer Science Department at University of 
 
 News
 ======
+* *[2025.05]* Our paper "Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective" has been accepted by **ICML 2025**, which is the first work that challenges the effectiveness of standard joint rehearsal in continual learning.
+
+* *[2025.04]* Check our recent survey paper on deployable continual learning for particle accelerators [here](https://arxiv.org/abs/2504.03793), which is the first-of-its-kind on exploring the real-world application of continual learning in particle accelerators.
 
 * *[2025.03]* Check our recent survey paper on Mixture-of-Experts [here](https://arxiv.org/abs/2503.07137), which provides a comprehensive review of its basics, algorithm design in multiple learning paradigms, theory and applications in CV/NLP.
 

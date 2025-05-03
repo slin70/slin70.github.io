@@ -14,6 +14,7 @@ author_profile: true
 
 ## Surveys
 
+* K Rajput, **S. Lin**, A. Edelen, W. Blokland, and M. Schram, "Outlook Towards Deployable Continual Learning for Particle Accelerators", arXiv, 2025.
 * S. Mu, and **S. Lin**, "A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications", arxiv, 2025.
 
 
@@ -27,6 +28,7 @@ author_profile: true
 
 ## Continual Learning
 
+* J. Deng, Q. Wu, P. Junchao, S. Lin, Y. Liang, and N. Shroff, "Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective", **ICML**, 2025.
 * H. Li, **S. Lin**, L. Duan, Y. Liang, and N. Shroff, "Theory on Mixture-of-Experts in Continual Learning", **ICLR**, 2025. **(Spotlight)**
 * L. Yang, **S. Lin**, J. Zhang, and D. Fan, "Efficient Self-supervised Continual Learning with Progressive Task-Correlated Layer Freezing", **ISQED**, 2025.
 * **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023. (<sup>*</sup> co-primary authors)
