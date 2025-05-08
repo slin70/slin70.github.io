@@ -28,7 +28,7 @@ author_profile: true
 
 ## Continual Learning
 
-* J. Deng, Q. Wu, P. Junchao, S. Lin, Y. Liang, and N. Shroff, "Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective", **ICML**, 2025.
+* J. Deng, Q. Wu, P. Ju, S. Lin, Y. Liang, and N. Shroff, "Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective", **ICML**, 2025.
 * H. Li, **S. Lin**, L. Duan, Y. Liang, and N. Shroff, "Theory on Mixture-of-Experts in Continual Learning", **ICLR**, 2025. **(Spotlight)**
 * L. Yang, **S. Lin**, J. Zhang, and D. Fan, "Efficient Self-supervised Continual Learning with Progressive Task-Correlated Layer Freezing", **ISQED**, 2025.
 * **S. Lin**<sup>*</sup>, P. Ju<sup>*</sup>, Y. Liang, and N. Shroff, "Theory on Forgetting and Generalization of Continual Learning", **ICML**, 2023. (<sup>*</sup> co-primary authors)
