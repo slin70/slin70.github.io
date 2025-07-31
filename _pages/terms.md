@@ -9,7 +9,6 @@ title: "Continual Edge AI Lab: CEAL @ UH"
 * Oyekunle Oshidele, 08/2024 -
 * Kishan Rajput, 08/2024 - 
 * Chad Weatherly, 08/2024 -
-* Junchao Zhou, 08/2024 -
 * Zheng Wang, 01/2024 -
 
 ## Undergraduate Students

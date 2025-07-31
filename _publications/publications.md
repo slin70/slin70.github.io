@@ -14,7 +14,7 @@ author_profile: true
 
 ## Surveys
 
-* K Rajput, **S. Lin**, A. Edelen, W. Blokland, and M. Schram, "Outlook Towards Deployable Continual Learning for Particle Accelerators", arXiv, 2025.
+* K Rajput, **S. Lin**, A. Edelen, W. Blokland, and M. Schram, "Outlook Towards Deployable Continual Learning for Particle Accelerators", Machine Learning: Science and Technology, 2025.
 * S. Mu, and **S. Lin**, "A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications", arxiv, 2025.
 
 
