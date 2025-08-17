@@ -18,6 +18,14 @@ I am an assistant professor in the Computer Science Department at University of 
 
 News
 ======
+* *[2025.08]* I will serve as an Area Chair for CVPR 2026 and ICLR 2026.
+
+* *[2025.07]* Our paper on leverage World Model for adaptive network slicing has been accepted by **IEEE GLOBECOM 2025**. 
+
+* *[2025.07]* Give an invited talk at ICCOPT 2025, Los Angeles, CA.
+
+* *[2025.05]* Glad to receive Google Cloud Research Credit. Thanks Google!
+
 * *[2025.05]* Our paper "Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective" has been accepted by **ICML 2025**, which is the first work that challenges the effectiveness of standard joint rehearsal in continual learning.
 
 * *[2025.04]* Check our recent survey paper on deployable continual learning for particle accelerators [here](https://arxiv.org/abs/2504.03793), which is the first-of-its-kind on exploring the real-world application of continual learning in particle accelerators.

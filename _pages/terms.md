@@ -17,6 +17,7 @@ title: "Continual Edge AI Lab: CEAL @ UH"
 
 ## Research Interns
 
+* Yongyi Wu, 08/2025 - 
 * Siyuan Mu, 08/2024 -
-* Keru Chen, 10/2023 -
+* Keru Chen, 10/2023 - 07/2025, currently a PhD student at Arizona State University.
 
