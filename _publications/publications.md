@@ -70,6 +70,7 @@ Growth", **NeurIPS Memory in Artificial and Real Intelligence workshop**, 2022.
 
 ## Applications in Wireless Networks
 
+* H. Zhou, **S. Lin**, W. Wang, D. Gao, and J. Zhang, "World-Model-Based Adaptive Network Slicing", **Globecom**, 2025.
 * J. Wan, **S. Lin**, Z. Zhang, J. Zhang, and T. Zhang, "Scheduling Real-time Wireless Traffic: A Network-aided Offline Reinforcement Learning Approach", **IEEE Internet of Things Journal**, 2023.
 * M. Dedeoglu, **S. Lin**, Z. Zhang, and J. Zhang, "Federated Learning Based Demand Reshaping for Electric Vehicle Charging", **Globecom**, 2022.
 * **S. Lin**, J. Zhang, and L. Ying, "Crowdsensing for Spectrum Discovery: A Waze-Inspired Design via Smartphone Sensing", **IEEE/ACM Transactions on Networking**, 2020.
