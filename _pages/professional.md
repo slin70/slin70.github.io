@@ -6,9 +6,10 @@ author_profile: true
 ---
 ## Conference Services:
 
-* PC member of MobiHoc 2025 and ITW 2025
+* Area Chair of ICLR, CVPR, ECCV 2026
+* PC member of MobiHoc 2025, 2026 and ITW 2025
 * PC member of NPC 2024
-* PC member of INFOCOM 2025
+* PC member of INFOCOM 2025, 2026
 * PC member of ICDCS 2024
 * PC member of SDM 2024
 * PC member of PhD Student Symposium for ICDCS 2023
@@ -29,6 +30,7 @@ author_profile: true
 * IEEE Computational Intelligence Magazine
 * IEEE Transactions on Neural Networks and Learning Systems
 * China Communications
+
 
 ## Conference Reviewer:
 
