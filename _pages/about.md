@@ -18,6 +18,14 @@ I am an assistant professor in the Computer Science Department at University of 
 
 News
 ======
+* *[2026.01]* Our paper "Rethinking CL with Progressive Neural Collapse" has been accepted by **ICLR 2026**, which develops a new type of feature regularization motivated by the phenomenon of neural collapse in deep neural networks.
+
+* *[2025.12]* I will serve as an Area Chair for ECCV 2026 and a TPC member of MobiHoc 2026.
+
+* *[2025.12]* One paper has accepted by **WACV 2026**, which sheds new light on the impact of zeroth-order optimization on continual learning.
+
+* *[2025.12]* Two papers have been accepted by **NeurIPS ML4PS Workshop 2025**, among which our study on continual learning for particle accelerators was selected as a spotlight.
+
 * *[2025.08]* I will serve as an Area Chair for CVPR 2026 and ICLR 2026, and a TPC member of INFOCOM 2026.
 
 * *[2025.07]* Our paper on leverage World Model for adaptive network slicing has been accepted by **IEEE GLOBECOM 2025**. 

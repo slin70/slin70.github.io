@@ -28,6 +28,8 @@ author_profile: true
 
 ## Continual Learning
 
+* Z. Wang, W. Yu, L. Yang, and **S. Lin**, "Rethinking Continual Learning with Progressive Neural Collapse", **ICLR**, 2026.
+* W. Yu, Z. Wang, S. Niu, **S. Lin**, and L. Yang, "More Than Memory Savings: Zeroth-Order Optimization Mitigates Forgetting in Continual Learning", **WACV**, 2026.
 * J. Deng, Q. Wu, P. Ju, **S. Lin**, Y. Liang, and N. Shroff, "Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective", **ICML**, 2025.
 * H. Li, **S. Lin**, L. Duan, Y. Liang, and N. Shroff, "Theory on Mixture-of-Experts in Continual Learning", **ICLR**, 2025. **(Spotlight)**
 * L. Yang, **S. Lin**, J. Zhang, and D. Fan, "Efficient Self-supervised Continual Learning with Progressive Task-Correlated Layer Freezing", **ISQED**, 2025.
@@ -47,6 +49,7 @@ Growth", **NeurIPS Memory in Artificial and Real Intelligence workshop**, 2022.
 
 ## Reinforcement Learning
 
+* K. Chen, H. Wei, Z. Deng, and **S. Lin**, "Towards Fast Safe Online Reinforcement Learning via Policy Finetuning", *TMLR*, 2026.
 * S. Yue, X. Hua, J. Ren, **S. Lin**, J. Zhang, and Y. Zhang, "OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning", **ICML**, 2024.
 * S. Yue, J. Liu, X. Hua, J. Ren, **S. Lin**, J. Zhang, and Y. Zhang, "How to Leverage Diverse Demonstrations in Offline Imitation Learning", **ICML**, 2024.
 * I. Adham, H. Wang, **S. Lin**, and J. Zhang, "L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration", **MOST**, 2024.
@@ -68,8 +71,11 @@ Growth", **NeurIPS Memory in Artificial and Real Intelligence workshop**, 2022.
 * Z. Zhang, **S. Lin**, M. Dedeoglu, K. Ding, and J. Zhang, "Data-driven Distributionally Robust Optimization for Edge Intelligence", **INFOCOM**, 2020.
 
 
-## Applications in Wireless Networks
+## Applications
 
+* YF. Chen, **S. Lin**, and A. Arora, "Knowledge-guided Machine Learning for Stabilizing Near-Shortest Path Routing", **SSS**, 2025.
+* K. Rajput, M. Schram, B. Sammuli, and **S. Lin**, "Uncertainty Guided Online Ensemble for Non-stationary Data Streams in Fusion Science", **NeurIPS ML4PS Workshp**, 2025.
+* K. Rajput, M. Schram, W. Blokland, A. Zhukov, and **S. Lin**, "Continual Learning for Particle Accelerators", **NeurIPS ML4PS Workshp**, 2025. **(Spotlight)**
 * H. Zhou, **S. Lin**, W. Wang, D. Gao, and J. Zhang, "World-Model-Based Adaptive Network Slicing", **Globecom**, 2025.
 * J. Wan, **S. Lin**, Z. Zhang, J. Zhang, and T. Zhang, "Scheduling Real-time Wireless Traffic: A Network-aided Offline Reinforcement Learning Approach", **IEEE Internet of Things Journal**, 2023.
 * M. Dedeoglu, **S. Lin**, Z. Zhang, and J. Zhang, "Federated Learning Based Demand Reshaping for Electric Vehicle Charging", **Globecom**, 2022.

@@ -13,7 +13,7 @@ author_profile: true
 
 * COSC6397: Deep Learning
 
-## 2023 Fall, 2024 Fall
+## 2023 Fall, 2024 Fall, 2025 Fall, 2026 Spring
 
 * COSC4368: Fundamentals of Artificial Intelligence
 
