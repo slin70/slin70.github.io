@@ -49,7 +49,7 @@ Growth", **NeurIPS Memory in Artificial and Real Intelligence workshop**, 2022.
 
 ## Reinforcement Learning
 
-* K. Chen, H. Wei, Z. Deng, and **S. Lin**, "Towards Fast Safe Online Reinforcement Learning via Policy Finetuning", *TMLR*, 2026.
+* K. Chen, H. Wei, Z. Deng, and **S. Lin**, "Towards Fast Safe Online Reinforcement Learning via Policy Finetuning", **TMLR**, 2026.
 * S. Yue, X. Hua, J. Ren, **S. Lin**, J. Zhang, and Y. Zhang, "OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning", **ICML**, 2024.
 * S. Yue, J. Liu, X. Hua, J. Ren, **S. Lin**, J. Zhang, and Y. Zhang, "How to Leverage Diverse Demonstrations in Offline Imitation Learning", **ICML**, 2024.
 * I. Adham, H. Wang, **S. Lin**, and J. Zhang, "L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration", **MOST**, 2024.
