@@ -9,15 +9,16 @@ redirect_from:
 
 ## Research interests
 
-My research interests fall in general machine learning and optimization, in terms of algorithm design, theory, and the applications in various domains, under the central objective of making AI more practical, accessible, adaptive, and explainable. The current research topics in my group include 
+My research interests fall in general machine learning and optimization, in terms of algorithm design, theory, and the applications in various domains, under the central objective of making AI more practical, adaptive, accessible, and explainable. The current research topics in my group include 
 
-* **Reinforcement Learning**: Warm-start and continual RL
+* **Large Language Models**: continual adaptation, efficient/safe alignment, and explanation
+* **Agentic AI**: self-evolving agents and multi-agent collaboration
+* **Multi-model LLMs**: long-video understanding
 * **Continual Learning**: theory and practical algorithm design
-* **Foundation models**: continual adaptation, alignment, and explanation
-* **Mixture-of-experts**
+* **Reinforcement Learning**: Warm-start and continual RL
 * **Bilevel optimization**.
 
-The application domains include IoT, wireless edge networks, energy, security, computer graphics, etc.
+The application domains include computer vision, wireless edge networks, IoT, healthcare, security, physics, etc.
 
  
 
