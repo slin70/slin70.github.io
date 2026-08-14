@@ -18,9 +18,19 @@ I am an assistant professor in the Computer Science Department at University of 
 
 News
 ======
+* *[2026.08]* I will serve as a guest editor for IEEE Journal on Selected Areas in Information Theory, which welcomes cutting-edge research findings in the areas of robust and adaptive learning through the lens of information theory. Check the link [here](https://www.itsoc.org/jsait/jsait-call-papers/robust-and-adaptive-learning-through-lens-information-theory) if you are interested.
+
+* *[2026.08]* I will serve as an Area Chair for ICLR 2027.
+
+* *[2026.08]* Received an NSF grant for our research on federated bilevel optimization over wireless networks. Thanks NSF!
+
+* *[2026.06]* Our paper "Reward Modeling for Reinforcement Learning-based LLM Reasoning: Design, Challenges, and Evaluation" has been accepted by **TMLR**.
+
+* *[2026.05]* Our paper "Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions" has been accepted by **ECCV 2026**.
+
 * *[2026.01]* Our paper "Rethinking CL with Progressive Neural Collapse" has been accepted by **ICLR 2026**, which develops a new type of feature regularization motivated by the phenomenon of neural collapse in deep neural networks.
 
-* *[2025.12]* I will serve as an Area Chair for ECCV 2026 and a TPC member of MobiHoc 2026.
+* *[2025.12]* I will serve as an Area Chair for ECCV 2026, NeurIPS 2026 and a TPC member of MobiHoc 2026.
 
 * *[2025.12]* One paper has accepted by **WACV 2026**, which sheds new light on the impact of zeroth-order optimization on continual learning.
 

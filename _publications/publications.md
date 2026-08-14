@@ -14,8 +14,16 @@ author_profile: true
 
 ## Surveys
 
+* P. Pan, Y. Liang, and **S. Lin**, "Reward Modeling for Reinforcement Learning-based LLM Reasoning: Design, Challenges, and Evaluation", **TMLR**, 2026.
 * K Rajput, **S. Lin**, A. Edelen, W. Blokland, and M. Schram, "Outlook Towards Deployable Continual Learning for Particle Accelerators", Machine Learning: Science and Technology, 2025.
 * S. Mu, and **S. Lin**, "A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications", arxiv, 2025.
+
+
+## LLMs
+
+* Q. Wu, L. Cao, H. Li, **S. Lin**, Y. Liang, N. Shroff, and A. Perrault, "The System Must Evolve: Benchmarking Long-Horizon Automation Over Dependent Tasks", **The 2nd workshop on lifelong agents in COLM**, 2026.
+* Q. Wu, **S. Lin**, M. Zhang, Y. Liang, and N. Shroff, "Learning Adaptive Reasoning Budgets via Constrained-Rectified Training", **AdaptFM workshop in ICML**, 2026
+* W. Yu, Z. Wang, S. Niu, **S. Lin**, and L. Yang, "More Than Memory Savings: Zeroth-Order Optimization Mitigates Forgetting in Continual Learning", **WACV**, 2026.
 
 
 ## Bilevel Optimization
@@ -28,8 +36,8 @@ author_profile: true
 
 ## Continual Learning
 
+* W. Chad, and **S. Lin**, "Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions", **ECCV**, 2026.
 * Z. Wang, W. Yu, L. Yang, and **S. Lin**, "Rethinking Continual Learning with Progressive Neural Collapse", **ICLR**, 2026.
-* W. Yu, Z. Wang, S. Niu, **S. Lin**, and L. Yang, "More Than Memory Savings: Zeroth-Order Optimization Mitigates Forgetting in Continual Learning", **WACV**, 2026.
 * J. Deng, Q. Wu, P. Ju, **S. Lin**, Y. Liang, and N. Shroff, "Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective", **ICML**, 2025.
 * H. Li, **S. Lin**, L. Duan, Y. Liang, and N. Shroff, "Theory on Mixture-of-Experts in Continual Learning", **ICLR**, 2025. **(Spotlight)**
 * L. Yang, **S. Lin**, J. Zhang, and D. Fan, "Efficient Self-supervised Continual Learning with Progressive Task-Correlated Layer Freezing", **ISQED**, 2025.
