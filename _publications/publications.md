@@ -21,6 +21,7 @@ author_profile: true
 
 ## LLMs
 
+* K. Chen, J. Luo, **S. Lin**, Y. Liang, A. Velasquez, N. Bastian, and S. Zou, "HIPO: Instruction Hierarchy via Constrained Reinforcement Learning", **EMNLP (main conference)**, 2026.
 * Q. Wu, L. Cao, H. Li, **S. Lin**, Y. Liang, N. Shroff, and A. Perrault, "The System Must Evolve: Benchmarking Long-Horizon Automation Over Dependent Tasks", **The 2nd workshop on lifelong agents in COLM**, 2026.
 * Q. Wu, **S. Lin**, M. Zhang, Y. Liang, and N. Shroff, "Learning Adaptive Reasoning Budgets via Constrained-Rectified Training", **AdaptFM workshop in ICML**, 2026
 * W. Yu, Z. Wang, S. Niu, **S. Lin**, and L. Yang, "More Than Memory Savings: Zeroth-Order Optimization Mitigates Forgetting in Continual Learning", **WACV**, 2026.

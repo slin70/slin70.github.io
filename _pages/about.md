@@ -18,6 +18,8 @@ I am an assistant professor in the Computer Science Department at University of 
 
 News
 ======
+* *[2026.08]* Our paper on tuning LLMs to maximize user utility while strictly following system prompts has been accepted by **EMNLP 2026** as a main conference paper. 
+
 * *[2026.08]* I will serve as a guest editor for IEEE Journal on Selected Areas in Information Theory, which welcomes cutting-edge research findings in the areas of robust and adaptive learning through the lens of information theory. Check the link [here](https://www.itsoc.org/jsait/jsait-call-papers/robust-and-adaptive-learning-through-lens-information-theory) if you are interested.
 
 * *[2026.08]* I will serve as an Area Chair for ICLR 2027.
