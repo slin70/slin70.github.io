@@ -18,6 +18,10 @@ I am an assistant professor in the Computer Science Department at University of 
 
 News
 ======
+* *[2026.09]* Four of our papers have been accepted by **NeurIPS 2026**! One revisits online continual learning at the optimizer level and develops a dedicated optimizer to replace the standard optimizers; one characterizes the attention dynamics for out-of-distribution in-context learning and develops the first theory on forgetting for ICL; one discovers an interesting phenomenon for zeroth-order LLM finetuning where a single layer finetuning can get the job done; one provides the first systematic analysis of how LLM suppliers should price their services in LLM routing systems. Congratulations to all co-authors!
+
+* *[2026.09]* I will serve as an Area Chair for CVPR 2027.
+
 * *[2026.08]* Our paper on tuning LLMs to maximize user utility while strictly following system prompts has been accepted by **EMNLP 2026** as a main conference paper. 
 
 * *[2026.08]* I will serve as a guest editor for IEEE Journal on Selected Areas in Information Theory, which welcomes cutting-edge research findings in the areas of robust and adaptive learning through the lens of information theory. Check the link [here](https://www.itsoc.org/jsait/jsait-call-papers/robust-and-adaptive-learning-through-lens-information-theory) if you are interested.
@@ -74,13 +78,7 @@ News
 
 * *[2023.09]* Our paper on online bilevel optimization has been accepted by **NeurIPS 2023**.
 
-* *[2023.09]* I have accepted the invitation to serve as a Program Committee member of SDM 2024.
 
-* *[2023.08]* Our paper "Scheduling Real-time Wireless Traffic: A Network-aided Offline Reinforcement Learning Approach" has been accepted by **IEEE Internet of Things Journal**.
-
-* *[2023.04]* Our paper "Theory on Forgetting and Generalization of Continual Learning" is accepted by **ICML 2023**. Congratulations to Peizhong and other authors. 
-
-* *[2023.04]* Our paper "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by **ICML 2023** as an oral presentation. Congratulations to Hang and other authors. 
 
 
 

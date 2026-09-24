@@ -21,6 +21,8 @@ author_profile: true
 
 ## LLMs
 
+* W. Yu, Z. Wang, Z. Wang, A. Almalky, Y. Zuo, S. Niu, **S. Lin**, A. Rakin, D. Fan, and L. Yang, "Dominant-Layer ZO: A Single Layer Dominates Zeroth-Order Fine-Tuning of LLMs", **NeurIPS**, 2026. 
+* X. Hou, Y. Lu, R. Karanjai, P. Pan, **S. Lin**, L. Xu, and W. Shi, "Specialists Hold, Generalists Discount: Asymmetric Equilibrium in LLM Routing Auctions", **NeurIPS**, 2026.
 * K. Chen, J. Luo, **S. Lin**, Y. Liang, A. Velasquez, N. Bastian, and S. Zou, "HIPO: Instruction Hierarchy via Constrained Reinforcement Learning", **EMNLP (main conference)**, 2026.
 * Q. Wu, L. Cao, H. Li, **S. Lin**, Y. Liang, N. Shroff, and A. Perrault, "The System Must Evolve: Benchmarking Long-Horizon Automation Over Dependent Tasks", **The 2nd workshop on lifelong agents in COLM**, 2026.
 * Q. Wu, **S. Lin**, M. Zhang, Y. Liang, and N. Shroff, "Learning Adaptive Reasoning Budgets via Constrained-Rectified Training", **AdaptFM workshop in ICML**, 2026
@@ -36,7 +38,8 @@ author_profile: true
 
 
 ## Continual Learning
-
+* J. Deng, D. Sow, **S. Lin**, and Y. Liang, "Theory on Attention Dynamics for Out-of-Distribution In-Context Learning", **NeurIPS**, 2026.
+* Y. Wu, Z. Wang, and **S. Lin**, "From Generic to Dedicated: A Novel Optimizer for Online Continual Learning", **NeurIPS**, 2026.
 * W. Chad, and **S. Lin**, "Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions", **ECCV**, 2026.
 * Z. Wang, W. Yu, L. Yang, and **S. Lin**, "Rethinking Continual Learning with Progressive Neural Collapse", **ICLR**, 2026.
 * J. Deng, Q. Wu, P. Ju, **S. Lin**, Y. Liang, and N. Shroff, "Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective", **ICML**, 2025.
