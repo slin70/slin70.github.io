@@ -10,7 +10,7 @@ redirect_from:
 
 I am an assistant professor in the Computer Science Department at University of Houston. Prior to that, I was a Postdoctoral Scholar in AI-EDGE Institute at The Ohio State University, advised by [Prof. Ness Shroff](http://newslab.ece.ohio-state.edu/home/index.html), [Prof. Yingbin Liang](https://sites.google.com/view/yingbinliang/home), and [Prof. Anish Arora](https://cse.osu.edu/people/arora.9). I received my B.Eng. degree in Electrical Engineering from Zhejiang University, Hangzhou, China, in 2013, my M.S. degree in Telecommunications from The Hong Kong University of Science and Technology, Hong Kong, in 2014, and my Ph.D. degree in Electrical Engineering from Arizona State University, in 2021, under the co-supervision of [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/) and [Prof. Lei Ying](https://leiying.engin.umich.edu/).
 
-[(CV)](https://www.dropbox.com/scl/fi/b8yzmyzb42fcoec6d5jcx/cv.pdf?rlkey=wr4bqp6k3r39f2b14ody5hj6t&dl=0) 
+
 
 
 
