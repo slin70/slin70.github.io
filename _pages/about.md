@@ -18,7 +18,14 @@ I am an assistant professor in the Computer Science Department at University of 
 
 News
 ======
-* *[2026.09]* Four of our papers have been accepted by **NeurIPS 2026**! One revisits online continual learning at the optimizer level and develops a dedicated optimizer to replace the standard optimizers; one characterizes the attention dynamics for out-of-distribution in-context learning and develops the first theory on forgetting for ICL; one discovers an interesting phenomenon for zeroth-order LLM finetuning where a single layer finetuning can get the job done; one provides the first systematic analysis of how LLM suppliers should price their services in LLM routing systems. Congratulations to all co-authors!
+* *[2026.09]* Our paper "Dominant-Layer ZO: A Single Layer Dominates Zeroth-Order Fine-Tuning of LLMs" has been accepted by **NeurIPS 2026**, which discovers an interesting phenomenon for zeroth-order LLM finetuning where a single layer finetuning can get the job done.
+
+* *[2026.09]* Our paper "Specialists Hold, Generalists Discount: Asymmetric Equilibrium in LLM Routing Auctions" has been accepted by **NeurIPS 2026**, which provides the first systematic analysis of how LLM suppliers should price their services in LLM routing systems.
+
+* *[2026.09]* Our paper "From Generic to Dedicated: A Novel Optimizer for Online Continual Learning" has been accepted by **NeurIPS 2026**, which revisits online continual learning at the optimizer level and develops a dedicated optimizer to replace the standard optimizers.
+
+* *[2026.09]* Our paper "Theory on Attention Dynamics for Out-of-Distribution In-Context Learning" has been accepted by **NeurIPS 2026**, which characterizes the attention dynamics for out-of-distribution in-context learning and develops the first theory on forgetting for ICL.
+
 
 * *[2026.09]* I will serve as an Area Chair for CVPR 2027.
 
